@@ -1,0 +1,22 @@
+{
+  "name": "kitsbackend",
+  "version": "1.0.0",
+  "description": "Simple Rest API for blogs",
+  "keywords": [
+    "blog",
+    "api",
+    "node",
+    "express"
+  ],
+  "license": "MIT",
+  "author": "Stephen Ishaya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "package.json",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
